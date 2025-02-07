@@ -1,6 +1,7 @@
 # oData
 Use qgis to extract gis data from original osm data.
 
+使用qgis从原始osm数据中提取gis数据。
 
 ## 主要数据来源
 
